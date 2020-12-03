@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Add Home Title Here</title>
+	<atom:link href="https://BSW1002.github.io/care-steemer-carpet/feed" rel="self" type="application/rss+xml" />
+	<link>https://BSW1002.github.io/care-steemer-carpet</link>
+	<description>Add Meta Description Here</description>
+	<lastBuildDate>Wednesday, 02 December 2020 21:33:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>	
+	
+	
+	
+
+<item>
+		<title>Tips To Keep Your Carpet Clean And Also Healthy</title>
+		<link>https://BSW1002.github.io/care-steemer-carpet/healthy/Tips-To-Keep-Your-Carpet-Clean-And-Also-Healthy.html</link>
+		<pubDate>Wednesday, 02 December 2020 21:33:01 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<category><![CDATA[healthy]]></category>
+		<guid isPermaLink="false">https://BSW1002.github.io/care-steemer-carpet/healthy/Tips-To-Keep-Your-Carpet-Clean-And-Also-Healthy.html</guid> 
+		<description><![CDATA[Tips To Keep Your Carpet Clean And Also Healthy
+by
+https://production-next-images-cdnthumbtack
+]]></description>
+       <enclosure url="#" length="0" type="image" /></item>
+<!--feeditem-->	
+	
+</channel>
+</rss>
+
+		
